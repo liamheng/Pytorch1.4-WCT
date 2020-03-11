@@ -6,7 +6,7 @@ We translated the original [WCT code](https://github.com/sunshineatnoon/PytorchW
 ## Prerequisites
 - [Pytorch 1.4](http://pytorch.org/)
 - [torchvision 0.5.0](https://github.com/pytorch/vision)
-- Pretrained encoder and decoder [models](https://drive.google.com/file/d/1M5KBPfqrIUZqrBZf78CIxLrMUT4lD4t9/view?usp=sharing) for image reconstruction only (download and uncompress them under models/). The .t7 files must convert to .pth with [Convert code](https://github.com/clcarwin/convert_torch_to_pytorch).
+- Pretrained encoder and decoder [models](https://drive.google.com/file/d/1M5KBPfqrIUZqrBZf78CIxLrMUT4lD4t9/view?usp=sharing) for image reconstruction only (download and uncompress them under models/). **The .t7 files must convert to .pth with [Convert code](https://github.com/clcarwin/convert_torch_to_pytorch).**
 - CUDA + CuDNN
 
 ## Prepare images
